@@ -14,7 +14,7 @@
 
 4. Основное средство коммуникации курса - чат в Telegram: https://t.me/joinchat/BNR8ZRZ-OtAIX4vA-XG87A
 
-5. Таблица успеваемости - https://docs.google.com/spreadsheets/d/1nNm7mrR4_BvKsO__xX8R7d0QBcjqRz4u_wgBd5vnSzA/edit#gid=790025036
+5. [Таблица успеваемости] (https://docs.google.com/spreadsheets/d/1nNm7mrR4_BvKsO__xX8R7d0QBcjqRz4u_wgBd5vnSzA/edit#gid=790025036)
 
 ### Для чего мне этот курс?
 
